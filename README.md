@@ -1,0 +1,2 @@
+# STM8L_USART1
+STM8L051 USART1，通过中断接收不定长读数据
